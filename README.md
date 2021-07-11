@@ -3,6 +3,10 @@
 [深入Unreal蓝图开发：将异步操作封装为蓝图节点
 ](https://neil3d.gitee.io/unreal/bp-async.html)
 
+[自定义高级蓝图节点(上)](https://neil3d.github.io/unreal/custom_bp_node.html)  
+[自定义高级蓝图节点(中)](https://neil3d.github.io/unreal/bp_dynamic_pin.html)  
+[自定义高级蓝图节点(下)](https://neil3d.github.io/unreal/bp_node_handler.html)
+
 [Latent Action创建案例（英文原版）](https://programmersought.com/article/95054347848/)
 
 [Latent Action创建案例（中文机翻版）](https://blog.csdn.net/flowersplug/article/details/80408493)  
